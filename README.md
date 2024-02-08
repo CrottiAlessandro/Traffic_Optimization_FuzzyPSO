@@ -1,5 +1,6 @@
 # Traffic_Optimization_FuzzyPSO
-In this project done during my Engineering Physics degree, I've tried to implement a traffic simulation where I've studied the ripple effect of traffic congestion. This occurs when a vehicle brakes sharply or slows significantly in a congested roadway, causing a chain reaction of sudden slowdowns or stops behind it.
+
+In this project done in 2022 during my Engineering Physics degree, I've tried to implement a traffic simulation where I've studied the ripple effect of traffic congestion. This occurs when a vehicle brakes sharply or slows significantly in a congested roadway, causing a chain reaction of sudden slowdowns or stops behind it.
 
 The code is written in Python, and this simulation was conducted using the 'pygame' library. This library allowed me to create a virtual environment where I could create a one-dimensional road where each rectangle represents a car.
 I set parameters such as the maximum speed and the safety distance between vehicles, calculated as '(speed/10)^2'.
